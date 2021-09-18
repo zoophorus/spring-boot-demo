@@ -34,5 +34,7 @@ build/
 
 ### Other ###
 .git
-.gitignor
+.gitignore
 .DS_Store
+/target/
+/out/
